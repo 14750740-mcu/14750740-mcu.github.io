@@ -1,4 +1,3 @@
 # 14750740-mcu.github.io
 2026/3/9 14750740的專網域·網址·網頁
-
-https://moodle.mcu.edu.tw/pluginfile.php/1/core_admin/logo/0x200/1757039306/mcu-logo_400X122.jpg
+<img width="400" height="122" alt="image" src="https://github.com/user-attachments/assets/66883b7f-e34d-4c4f-8b3f-00e43b98c1ec" />
